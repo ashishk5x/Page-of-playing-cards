@@ -95,5 +95,3 @@ After completing this project, I gained a better understanding of:
 **Ashish Kumar Yadav**
 
 ---
-
-*"Learning CSS becomes much more fun when you build real-world components like playing cards."* 🃏
