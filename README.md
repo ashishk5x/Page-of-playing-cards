@@ -69,7 +69,6 @@ No additional setup is required.
 
 A collection of playing cards displayed in a responsive Flexbox layout with realistic card styling and hover animations.
 
-<img width="1214" height="1202" alt="Playing Cards Preview" src="https://github.com/user-attachments/assets/your-image-link-here" />
 
 ## 🎓 Learning Outcomes
 
